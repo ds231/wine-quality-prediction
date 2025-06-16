@@ -32,6 +32,14 @@ Models are evaluated using:
 
 Each evaluation metric helps provide a deeper understanding of how the models perform across different aspects of prediction.
 
+**Author**: 
+Devanshu Singh
+BSc. Statistics | Machine Learning Enthusiast | Exploring AI through hands-on projects
+
+**License**: 
+This project is licensed under the MIT License.
+See the LICENSE file for details.
+
 
 ## 🚀 How to Run This Project Locally
 
