@@ -21,6 +21,16 @@ This project is a Machine Learning solution to predict wine quality based on phy
 - Seaborn
 
 ---
+## Model Evaluation##
+Models are evaluated using:
+Accuracy
+Precision
+Recall
+F1-Score
+Confusion Matrix
+
+Each evaluation metric helps provide a deeper understanding of how the models perform across different aspects of prediction.
+
 
 ## 🚀 How to Run This Project Locally
 
@@ -35,12 +45,4 @@ pip install -r requirements.txt
 # 3. Launch the Notebook
 jupyter notebook wine_quality_prediction.ipynb
 
-## Model Evaluation##
-Models are evaluated using:
-Accuracy
-Precision
-Recall
-F1-Score
-Confusion Matrix
-
-Each evaluation metric helps provide a deeper understanding of how the models perform across different aspects of prediction.
+      
