@@ -23,11 +23,11 @@ This project is a Machine Learning solution to predict wine quality based on phy
 ---
 ## Model Evaluation##
 Models are evaluated using:
-Accuracy
-Precision
-Recall
-F1-Score
-Confusion Matrix
+1.Accuracy
+2.Precision
+3.Recall
+4.F1-Score
+5.Confusion Matrix
 
 Each evaluation metric helps provide a deeper understanding of how the models perform across different aspects of prediction.
 
